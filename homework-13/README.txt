@@ -14,7 +14,7 @@ random-pic.jpg - изображение, което се изпраща като
 Prerequizite:
 Sample email what will be used as a sender:
 Username: ziksmmaster2022@gmail.com
-Password: ZiksmMaster_2022
+Password:
 
 0) Първо целият проект трябва да се компилира. Преди това, javax и activation jar файлвовете трябва да се добавят към проекта.
 1) MailExample
