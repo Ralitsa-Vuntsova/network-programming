@@ -11,7 +11,7 @@ public class MailExample {
     Authenticator auth = new Authenticator() {
       @Override
       protected PasswordAuthentication getPasswordAuthentication() {
-        return new PasswordAuthentication(from, "gkabysclpyadfzdh");
+        return new PasswordAuthentication(from, "<password>");
       }
     };
 
